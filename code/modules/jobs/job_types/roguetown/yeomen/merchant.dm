@@ -1,5 +1,5 @@
 /datum/job/roguetown/merchant
-	title = "Merchant"
+	title = "Consortium Manager"
 	flag = MERCHANT
 	department_flag = YEOMEN
 	faction = "Station"
